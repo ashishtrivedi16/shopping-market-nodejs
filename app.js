@@ -10,7 +10,7 @@ const flash = require('connect-flash');
 const errorController = require('./controllers/error');
 const User = require('./models/user');
 
-const MONGODB_URI = 'mongodb+srv://Ashish:root@cluster0-ijuae.mongodb.net/shop?retryWrites=true&w=majority';
+const MONGODB_URI = '';
 
 const store = new MongoDBStore({
 	uri: MONGODB_URI,
