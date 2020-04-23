@@ -5,3 +5,7 @@
 - run 'npm install' to install the required node modules
 - run 'npm start' to start nodemon server
 - or run 'node app.js' to start normal server
+
+
+## TODO
+- Add real payment functionality using stripejs
